@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/JeflXrIHF0LhOjRzJb_VZ04QWaVgIe6zLBt6WdiwC_I/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tN0E0V3lud0xz/TXcvWGJCcENYRzhm/SEkvQUFBQUFBQUFN/dDQvdU9hMWJwTHNr/WWdyd0dibGxoU3Uy/U0RqX01pZzhTWEpR/Q0xjQkdBc1lIUS9z/MTYwMC8yMDAwXzYw/MHB4LmdpZg.gif)
+![MasterHead](https://imgs.search.brave.com/JeflXrIHF0LhOjRzJb_VZ04QWaVgIe6zLBt6WdiwC_I/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tN0E0V3lud0xz/TXcvWGJCcENYRzhm/SEkvQUFBQUFBQUFN/dDQvdU9hMWJwTHNr/WWdyd0dibGxoU3Uy/U0RqX01pZzhTWEpR/Q0xjQkdBc1lIUS9z/MTYwMC8yMDAwXzYw/MHB4LmdpZg.gif)
 <h1 align="center">Hi 👋, I'm Pavithra Subawickrma</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
