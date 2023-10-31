@@ -1,19 +1,19 @@
 ![MasterHead](https://imgs.search.brave.com/JeflXrIHF0LhOjRzJb_VZ04QWaVgIe6zLBt6WdiwC_I/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tN0E0V3lud0xz/TXcvWGJCcENYRzhm/SEkvQUFBQUFBQUFN/dDQvdU9hMWJwTHNr/WWdyd0dibGxoU3Uy/U0RqX01pZzhTWEpR/Q0xjQkdBc1lIUS9z/MTYwMC8yMDAwXzYw/MHB4LmdpZg.gif)
 <h1 align="center">Hi 👋, I'm Pavithra Subawickrma</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack web developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavithrasubawickrama&label=Profile%20views&color=0e75b6&style=flat" alt="pavithrasubawickrama" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@pavithrasubawi2" target="blank"><img src="https://img.shields.io/twitter/follow/@pavithrasubawi2?logo=twitter&style=for-the-badge" alt="@pavithrasubawi2" /></a> </p>
 
-- 🔭 I’m currently working on **FIVERR**
+- 🔭 I’m currently working on **Insfra Technologies**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Node.js, MEARN, angular**
+- 💬 Ask me about **Java, Python, Angular**
 
-- 📫 How to reach me **pavithramalik@98gmail.com**
+- 📫 How to reach me **pavithramalik98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
