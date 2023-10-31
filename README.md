@@ -1,4 +1,4 @@
-![MasterHead](https://imgs.search.brave.com/JeflXrIHF0LhOjRzJb_VZ04QWaVgIe6zLBt6WdiwC_I/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tN0E0V3lud0xz/TXcvWGJCcENYRzhm/SEkvQUFBQUFBQUFN/dDQvdU9hMWJwTHNr/WWdyd0dibGxoU3Uy/U0RqX01pZzhTWEpR/Q0xjQkdBc1lIUS9z/MTYwMC8yMDAwXzYw/MHB4LmdpZg.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Pavithra Subawickrma</h1>
 <h3 align="center">A passionate full-stack web developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@pavithrasubawi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pavithrasubawi2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pavithra-subawickrama-5b57b9254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithra-subawickrama-5b57b9254" height="30" width="40" /></a>
 <a href="https://fb.com/pavithra subawickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavithra subawickrama" height="30" width="40" /></a>
 <a href="https://instagram.com/pavi_subawickama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavi_subawickama" height="30" width="40" /></a>
+<a href="https://twitter.com/@pavithrasubawi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pavithrasubawi2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
